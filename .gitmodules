@@ -1,3 +1,0 @@
-[submodule "lib"]
-	path = clientlib/java/lib
-	url = https://github.com/50ButtonsEach/fliclib-linux-hci.git
